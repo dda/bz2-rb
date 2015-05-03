@@ -1,0 +1,1 @@
+A simple class that provides access to libbz2.dylib
